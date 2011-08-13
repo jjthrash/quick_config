@@ -17,8 +17,9 @@ Jeweler::Tasks.new do |gem|
   gem.name = "quick_config"
   gem.homepage = "http://github.com/jjthrash/quick_config"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Manage config between Heroku and development}
+  gem.description = %Q{Use a non-checked-in dotfile to specify development config info,
+                       and use Heroku environment variables to specify it for production}
   gem.email = "jimmy@jimmythrasher.com"
   gem.authors = ["Jimmy Thrasher"]
   # dependencies defined in Gemfile
