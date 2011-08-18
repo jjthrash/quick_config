@@ -1,6 +1,7 @@
 = quick_config
 
-Description goes here.
+Configure your web service dependencies with environment variables or local dotfiles and keep your credentials out of
+your repository.
 
 == Contributing to quick_config
  
