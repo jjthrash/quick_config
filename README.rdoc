@@ -3,6 +3,8 @@
 Configure your web service dependencies with environment variables or local dotfiles and keep your credentials out of
 your repository.
 
+Inspired by aspects of http://12factor.net
+
 == Contributing to quick_config
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
